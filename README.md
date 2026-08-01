@@ -1,11 +1,22 @@
-# Deutsch
-{
-  "name": "Deutsch30",
-  "short_name": "Deutsch30",
-  "description": "德国工作德语训练App",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#f5f6fa",
-  "theme_color": "#1f2937",
-  "orientation": "portrait"
-}
+# Deutsch30 🇩🇪
+
+德国工作德语训练网页版App
+
+
+## 功能
+
+- 每日德语训练
+- 精听
+- 口语表达
+- 工程德语
+- 学习打卡
+
+
+## 使用
+
+上传到 GitHub Pages 即可。
+
+
+目标：
+
+A2 → B1 → 德国工作面试
