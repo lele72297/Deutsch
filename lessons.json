@@ -98,6 +98,209 @@
 "translation":"我可以分析技术问题。",
 "speaking":"Wie lösen Sie Probleme?",
 "engineering":"die Problemlösung（问题解决）"
+},
+
+  [
+{
+"day":11,
+"title":"BIM基础介绍",
+"level":"B1",
+"listening":"Ich habe Erfahrung mit BIM und digitalen Planungsmethoden.",
+"translation":"我有BIM和数字化设计方法经验。",
+"speaking":"Welche Software können Sie benutzen?",
+"engineering":"BIM (Building Information Modeling)"
+},
+
+{
+"day":12,
+"title":"Revit和CAD",
+"level":"B1",
+"listening":"Ich arbeite mit CAD-Programmen für technische Zeichnungen.",
+"translation":"我使用CAD软件进行技术绘图。",
+"speaking":"Welche CAD-Kenntnisse haben Sie?",
+"engineering":"die technische Zeichnung（技术图纸）"
+},
+
+{
+"day":13,
+"title":"施工计划",
+"level":"B1",
+"listening":"Die Bauplanung muss gut organisiert werden.",
+"translation":"施工规划必须组织良好。",
+"speaking":"Wie planen Sie ein Bauprojekt?",
+"engineering":"die Bauplanung（施工规划）"
+},
+
+{
+"day":14,
+"title":"工程招标",
+"level":"B1",
+"listening":"Ich habe Ausschreibungsunterlagen vorbereitet.",
+"translation":"我准备过招标文件。",
+"speaking":"Haben Sie Erfahrung mit Ausschreibungen?",
+"engineering":"die Ausschreibung（招标）"
+},
+
+{
+"day":15,
+"title":"工程结算",
+"level":"B1",
+"listening":"Ich war für Mengenberechnung und Abrechnung verantwortlich.",
+"translation":"我负责工程量计算和结算。",
+"speaking":"Welche kaufmännischen Aufgaben hatten Sie?",
+"engineering":"die Abrechnung（结算）"
+},
+
+{
+"day":16,
+"title":"施工现场管理",
+"level":"B1",
+"listening":"Auf der Baustelle müssen Termine und Qualität kontrolliert werden.",
+"translation":"施工现场需要控制进度和质量。",
+"speaking":"Wie kontrollieren Sie die Qualität?",
+"engineering":"die Qualitätskontrolle（质量控制）"
+},
+
+{
+"day":17,
+"title":"项目协调",
+"level":"B1",
+"listening":"Ich habe mit verschiedenen Abteilungen zusammengearbeitet.",
+"translation":"我和不同部门合作过。",
+"speaking":"Wie koordinieren Sie ein Team?",
+"engineering":"die Koordination（协调）"
+},
+
+{
+"day":18,
+"title":"工程问题处理",
+"level":"B1",
+"listening":"Bei Problemen suche ich zuerst nach einer praktischen Lösung.",
+"translation":"遇到问题时我首先寻找实际解决方案。",
+"speaking":"Wie gehen Sie mit Problemen um?",
+"engineering":"die Lösung（解决方案）"
+},
+
+{
+"day":19,
+"title":"安全管理",
+"level":"B1",
+"listening":"Arbeitssicherheit auf der Baustelle ist sehr wichtig.",
+"translation":"施工现场安全非常重要。",
+"speaking":"Welche Sicherheitsregeln kennen Sie?",
+"engineering":"die Arbeitssicherheit（工作安全）"
+},
+
+{
+"day":20,
+"title":"德国工作文化",
+"level":"B1",
+"listening":"Pünktlichkeit und Zuverlässigkeit sind in Deutschland wichtig.",
+"translation":"准时和可靠在德国很重要。",
+"speaking":"Was wissen Sie über die deutsche Arbeitskultur?",
+"engineering":"die Zuverlässigkeit（可靠性）"
+},
+
+{
+"day":21,
+"title":"为什么德国",
+"level":"B1",
+"listening":"Deutschland bietet viele Möglichkeiten für Ingenieure.",
+"translation":"德国为工程师提供很多机会。",
+"speaking":"Warum möchten Sie in Deutschland arbeiten?",
+"engineering":"der Ingenieurarbeitsmarkt（工程师市场）"
+},
+
+{
+"day":22,
+"title":"为什么申请这个岗位",
+"level":"B1",
+"listening":"Diese Stelle passt sehr gut zu meiner Erfahrung.",
+"translation":"这个职位非常符合我的经验。",
+"speaking":"Warum bewerben Sie sich bei uns?",
+"engineering":"die Bewerbung（申请）"
+},
+
+{
+"day":23,
+"title":"个人优势",
+"level":"B1",
+"listening":"Meine Stärke ist meine praktische Erfahrung.",
+"translation":"我的优势是实践经验。",
+"speaking":"Was sind Ihre Stärken?",
+"engineering":"die Stärke（优势）"
+},
+
+{
+"day":24,
+"title":"职业规划",
+"level":"B1-B2",
+"listening":"Ich möchte mich langfristig weiterentwickeln.",
+"translation":"我希望长期发展。",
+"speaking":"Wo sehen Sie sich in fünf Jahren?",
+"engineering":"die Weiterentwicklung（发展）"
+},
+
+{
+"day":25,
+"title":"德国公司沟通",
+"level":"B1-B2",
+"listening":"Eine klare Kommunikation ist im Projekt sehr wichtig.",
+"translation":"清晰沟通在项目中非常重要。",
+"speaking":"Wie kommunizieren Sie mit Kollegen?",
+"engineering":"die Kommunikation（沟通）"
+},
+
+{
+"day":26,
+"title":"工程会议",
+"level":"B1-B2",
+"listening":"Wir besprechen heute den aktuellen Projektstand.",
+"translation":"今天我们讨论项目当前进展。",
+"speaking":"Wie präsentieren Sie ein Projekt?",
+"engineering":"der Projektstand（项目状态）"
+},
+
+{
+"day":27,
+"title":"技术说明",
+"level":"B1-B2",
+"listening":"Ich erkläre technische Details verständlich.",
+"translation":"我可以清楚解释技术细节。",
+"speaking":"Wie erklären Sie technische Probleme?",
+"engineering":"das Detail（细节）"
+},
+
+{
+"day":28,
+"title":"模拟面试",
+"level":"B1-B2",
+"listening":"Vielen Dank für die Möglichkeit, mich vorzustellen.",
+"translation":"感谢给我介绍自己的机会。",
+"speaking":"Bitte erzählen Sie etwas über sich.",
+"engineering":"das Vorstellungsgespräch（面试）"
+},
+
+{
+"day":29,
+"title":"综合复习",
+"level":"B1-B2",
+"listening":"Ich kann meine Erfahrungen und Kenntnisse präsentieren.",
+"translation":"我可以展示我的经验和知识。",
+"speaking":"Warum sollten wir Sie einstellen?",
+"engineering":"die Qualifikation（资格）"
+},
+
+{
+"day":30,
+"title":"德国工作目标总结",
+"level":"B1-B2",
+"listening":"Mein Ziel ist es, langfristig in Deutschland zu arbeiten.",
+"translation":"我的目标是在德国长期工作。",
+"speaking":"Beschreiben Sie Ihren Karriereplan.",
+"engineering":"die Karriereplanung（职业规划）"
 }
 
 ]
+
+
