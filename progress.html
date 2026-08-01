@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+
+<title>
+学习进度
+</title>
+
+
+<link rel="stylesheet"
+href="css/style.css">
+
+
+</head>
+
+
+<body>
+
+
+<div class="app">
+
+
+<h1>
+📊 我的学习
+</h1>
+
+
+
+<section class="card">
+
+
+<p>
+
+完成天数：
+
+<span id="progressDay">
+0
+
+</span>
+
+/30
+
+</p>
+
+
+<p>
+
+连续学习：
+
+<span id="progressStreak">
+0
+
+</span>
+
+天
+
+</p>
+
+
+
+</section>
+
+
+</div>
+
+
+
+<script src="js/storage.js"></script>
+
+<script>
+
+
+document.getElementById(
+"progressDay"
+).innerHTML =
+localStorage.getItem("day") || 1;
+
+
+document.getElementById(
+"progressStreak"
+).innerHTML =
+localStorage.getItem("streak") || 0;
+
+
+</script>
+
+
+
+</body>
+
+</html>
