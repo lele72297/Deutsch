@@ -1,3 +1,4 @@
+
 const lessons=[
 
 
@@ -154,7 +155,7 @@ zh:"申请"
 
 ]
 
-
+window.lessons = lessons;
 }
 
 
