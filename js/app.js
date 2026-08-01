@@ -83,3 +83,70 @@ window.location.href=
 
 
 }
+
+
+
+window.onload=function(){
+
+
+let day=getDay();
+
+
+
+let dayElement =
+document.getElementById("day");
+
+if(dayElement){
+
+dayElement.innerHTML=day;
+
+}
+
+
+
+let streakElement =
+document.getElementById("streak");
+
+if(streakElement){
+
+streakElement.innerHTML=
+getStreak();
+
+}
+
+
+
+
+if(window.lessons){
+
+
+let lesson =
+lessons.find(
+x=>x.day===day
+);
+
+
+
+let title =
+document.getElementById(
+"todayTitle"
+);
+
+
+
+if(title && lesson){
+
+title.innerHTML=
+
+"今日主题："
++
+lesson.title;
+
+
+}
+
+
+}
+
+
+};
