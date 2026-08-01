@@ -1,0 +1,103 @@
+[
+{
+"day":1,
+"title":"自我介绍",
+"level":"A2",
+"listening":"Guten Morgen. Ich heiße Anna und komme aus China.",
+"translation":"早上好，我叫Anna，来自中国。",
+"speaking":"Stellen Sie sich bitte vor.",
+"engineering":"der Bauingenieur（土木工程师）"
+},
+
+{
+"day":2,
+"title":"介绍学历",
+"level":"A2",
+"listening":"Ich habe Bauingenieurwesen studiert.",
+"translation":"我学习的是土木工程。",
+"speaking":"Was haben Sie studiert?",
+"engineering":"das Bauingenieurwesen（土木工程）"
+},
+
+{
+"day":3,
+"title":"介绍工作经验",
+"level":"A2",
+"listening":"Ich habe drei Jahre Berufserfahrung im Bauwesen.",
+"translation":"我有三年建筑行业工作经验。",
+"speaking":"Erzählen Sie über Ihre Berufserfahrung.",
+"engineering":"die Berufserfahrung（工作经验）"
+},
+
+{
+"day":4,
+"title":"工程项目介绍",
+"level":"A2-B1",
+"listening":"Ich habe an verschiedenen Bauprojekten gearbeitet.",
+"translation":"我参与过不同建筑项目。",
+"speaking":"Beschreiben Sie ein Projekt.",
+"engineering":"das Bauprojekt（建筑项目）"
+},
+
+{
+"day":5,
+"title":"施工现场",
+"level":"A2-B1",
+"listening":"Auf der Baustelle muss man viele Dinge koordinieren.",
+"translation":"在施工现场需要协调很多事情。",
+"speaking":"Welche Aufgaben hatten Sie auf der Baustelle?",
+"engineering":"die Baustelle（施工现场）"
+},
+
+{
+"day":6,
+"title":"工程计算",
+"level":"B1",
+"listening":"Ich habe Mengenberechnungen und Abrechnungen gemacht.",
+"translation":"我做过工程量计算和结算。",
+"speaking":"Welche technischen Aufgaben kennen Sie?",
+"engineering":"die Mengenberechnung（工程量计算）"
+},
+
+{
+"day":7,
+"title":"德国求职目标",
+"level":"B1",
+"listening":"Ich möchte langfristig in Deutschland arbeiten.",
+"translation":"我希望长期在德国工作。",
+"speaking":"Warum Deutschland?",
+"engineering":"die Karriereentwicklung（职业发展）"
+},
+
+
+{
+"day":8,
+"title":"德国公司面试",
+"level":"B1",
+"listening":"Vielen Dank für die Einladung zum Gespräch.",
+"translation":"感谢您邀请我参加面试。",
+"speaking":"Warum interessieren Sie sich für diese Stelle?",
+"engineering":"die Stelle（职位）"
+},
+
+{
+"day":9,
+"title":"团队合作",
+"level":"B1",
+"listening":"Ich arbeite gerne im Team.",
+"translation":"我喜欢团队合作。",
+"speaking":"Wie arbeiten Sie im Team?",
+"engineering":"das Team（团队）"
+},
+
+{
+"day":10,
+"title":"解决问题",
+"level":"B1",
+"listening":"Ich kann technische Probleme analysieren.",
+"translation":"我可以分析技术问题。",
+"speaking":"Wie lösen Sie Probleme?",
+"engineering":"die Problemlösung（问题解决）"
+}
+
+]
